@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Regression1(failed)">
+    <classes>
+      <class name="com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j">
+        <methods>
+          <include name="addEmp"/>
+        </methods>
+      </class> <!-- com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

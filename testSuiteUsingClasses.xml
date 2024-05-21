@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1">
+
+  <test name="Regression1">
+    <classes>
+      <class name="com.hrms.test_Scripts.TC001_Driver_Frame_TestNg_Log4j"/>
+       <class name="com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j"/>
+    </classes>
+  </test>
+</suite>

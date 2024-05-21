@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Appln Opened]]>
+    </line>
+    <line>
+      <![CDATA[Appln Opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-21T05:37:22Z" name="Suite1" finished-at="2024-05-21T05:37:48Z" duration-ms="25907">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T05:37:22Z" name="Regression1" finished-at="2024-05-21T05:37:48Z" duration-ms="25907">
+      <class name="com.hrms.test_Scripts.TC001_Driver_Frame_TestNg_Log4j">
+        <test-method signature="tc001_login_logout()[pri:0, instance:com.hrms.test_Scripts.TC001_Driver_Frame_TestNg_Log4j@e874448]" started-at="2024-05-21T11:07:22Z" name="tc001_login_logout" finished-at="2024-05-21T11:07:33Z" duration-ms="11744" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Appln Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_login_logout -->
+      </class> <!-- com.hrms.test_Scripts.TC001_Driver_Frame_TestNg_Log4j -->
+      <class name="com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j">
+        <test-method signature="addEmp()[pri:0, instance:com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j@587d1d39]" started-at="2024-05-21T11:07:33Z" name="addEmp" finished-at="2024-05-21T11:07:48Z" duration-ms="14128" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Appln Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+      </class> <!-- com.hrms.test_Scripts.TC002_Driver_Frame_TestNg_Log4j -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
